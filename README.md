@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Caio Enrique</h1>
-<h3 align="center">Eu tenho uma paixão profunda por tecnologia. Atualmente, estou cursando Sistemas para Internet, com um foco especial no desenvolvimento Backend</h3>
 
 - 🌱 I’m currently learning ** PHP, Laravel and Symfony / JAVA and Spring **
 
